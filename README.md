@@ -1,10 +1,8 @@
-# storage
+# Storage
 
-An Electron application with React and TypeScript
+## About
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+An database manager made with Electron and React. It's a simple app that allows you to manage your databases.
 
 ## Project Setup
 
